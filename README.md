@@ -33,6 +33,6 @@ Utilization/Enhancement of one of the resources may cast a toll on some other as
 3. Request Interveptors can be used before after the services or before the indexes to avoid node failures from bulk requests.
 4. In a read-heavy architecture having more replicas of the same data could improve the query time and reduce node-failures. 
 
-### UserExperience
+### User Experience
 1. User Experience with queries can be improved with ElasticSearch features such as Autocompletion,Fuzzy Search, or advanced search features.
 2. Continios polling of data at Intevarls from data sources such as S3 can immensenly improve for Real time expereince of users if application used in real-time application such as FlighBooking or Stocks.
